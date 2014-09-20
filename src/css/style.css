@@ -10,5 +10,5 @@
 	height: 10rem;
 	background: red;
 	xtransform: translate(50%, 50%) scale(2);
-	transition: all 0.1s ease-in;
+	xtransition: all 0.001s ease-in;
 }
